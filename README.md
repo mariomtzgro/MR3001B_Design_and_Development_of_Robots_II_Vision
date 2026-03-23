@@ -21,10 +21,10 @@
 
 * This course is divided into different sections, carefully designed to guide the learner from foundational concepts to more advanced applications in vision-based systems.
 
-* The first part of this course introduces the basic concepts and general knowledge of image formation, cameras, and visual perception.
-* The second part is dedicated to image processing techniques, including filtering, edge detection, and feature extraction.
-* The third section focuses on industrial vision, covering topics such as industrial vision models and software.
-* The fourth section explores object detection and recognition, introducing classical and modern approaches.
+  * The first part of this course introduces the basic concepts and general knowledge of image formation, cameras, and visual perception.
+  * The second part is dedicated to image processing techniques, including filtering, edge detection, and feature extraction.
+  * The third section focuses on industrial vision, covering topics such as industrial vision models and software.
+  * The fourth section explores object detection and recognition, introducing classical and modern approaches.
 
 * This course will be based on challenges to make the student aware of the problems faced while implementing advanced intelligent algorithms in robotics.
 
@@ -46,7 +46,7 @@ General requirements. Please be aware that a set of requirements specific to eac
 * Knowledge of Windows. 
 * Basic knowledge of Python (recommended).
 * Basic understanding of robotics (recommended).
-* Basic understanding of control (recommended).
+* Basic understanding of vision (recommended).
 
 ## Weekly Sessions
 
